@@ -1,6 +1,7 @@
 # E-commerce-Market-Analysis-
-This repository consists of two folders: 
-  1) Code: This contains all notebooks and dataset.
+This repository consists of two folders:
+
+  1. Code: This contains all notebooks and dataset.
     A. Topic Extraction of Customer Reviews.ipynb:
        This notebook loads data from olist_order_reviews_dataset.csv.It discuss topic modeling of customer reviews using PLSA and LDA.
     B.a. TS_LSTM_Weekly.ipynb:
@@ -12,4 +13,4 @@ This repository consists of two folders:
     
    Please see Part B in order of B.a , B.b and B.c.
    
-  2) Portfolio:This this contains same folder structure as code, but each technical concept is discussed before applying.
+  2. Portfolio:This this contains same folder structure as code, but each technical concept is discussed before applying.
